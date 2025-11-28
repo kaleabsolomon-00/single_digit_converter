@@ -7,4 +7,3 @@ while Num>9:
         Um+=int(digit)
     Num=Um
 print("Single digit:", Um, "revised is ", Um)
-print(f" the revised amount is {Num}")
